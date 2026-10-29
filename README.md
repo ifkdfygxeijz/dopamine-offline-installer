@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Dopamine Free Installer** — Dopamine is a free, beautifully designed music player for Windows with a clean, modern Material Design interface. Works without internet access, no account required. Full offline installation.
+**💻 Dopamine Free Installer** — Dopamine is a free, open-source music player for Windows with a clean, modern interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Dopamine
 
-Dopamine is a free, beautifully designed music player for Windows with a clean, modern Material Design interface. It supports FLAC, MP3, OGG, and other formats, features smart playlists, online cover art and lyrics retrieval, and Last.fm scrobbling.
+Dopamine is a free, open-source music player for Windows with a clean, modern interface. Featuring a library with album art display, gapless playback, scrobbling to Last.fm, and support for MP3, FLAC, WAV, OGG, and other formats, Dopamine provides a polished music playback experience for users who maintain local music libraries. Its simple design keeps focus on the listening experience.
 
 ---
 
 ## ❌ Problem: Dopamine is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Limited Advanced Features** — Missing DSP and equalizer features of audiophile-focused players
-- **No Streaming** — Plays only local library files; no streaming service integration
-- **Development Activity** — Update frequency has slowed in recent years
+- **Windows Only** — No cross-platform version
+- **Streaming Services** — No streaming platform integration
+- **Library Size** — Very large libraries may have performance considerations
+- **Development Pace** — Updates follow community contributor availability
 
 ---
 
@@ -121,7 +121,7 @@ Dopamine is a free, beautifully designed music player for Windows with a clean, 
 
 ---
 
-**Dopamine Free Installer** — Dopamine is a free, beautifully designed music player for Windows with a clean, modern Material Design interface. Install without internet connection today!
+**Dopamine Free Installer** — Dopamine is a free, open-source music player for Windows with a clean, modern interface. Install without internet connection today!
 
 <div align="center">
 
